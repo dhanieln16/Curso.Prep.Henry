@@ -1,0 +1,8 @@
+* Objetos: variables donde puedo guardar varios datos en una misma por ejemplo en la variable Dhaniel puedo guardar el nombre, el apellido, la edad y el trabajo al mismo tiempo
+* Propiedades: los datos de una variable por ejemplo en el objeto Dhaniel las propiedades serian el nombre, apellido, edad y trabajo
+* Métodos: es una funcion que en su interior tiene un conjunto de instrucciones como por ejemplo varios if y varios calculos que hacer
+* Bucle `for…in`este es un bucle que se repite y va iterando sobre las propiedades de un objeto
+* Notación de puntos vs notación de corchetes 
+
+en notificacion por puntos es mas literal, puedo acceder a las propiedades facilmente con .NombreDeLaPropiedad, en cambio por corchetes si quiero puedo tener una variable que el usuario escriba que buscar y al ejecutarse 
+me devuelva la propiedad ejemplo el usuario dice que busca el nombre de la persona y la variable i toma el valor de nombre, y se ejecuta la funcion(string a) el cual me retorna "User[i]" y me devolveria el nombre
