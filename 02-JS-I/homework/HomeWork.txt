@@ -1,0 +1,5 @@
+* Variables son cajones a los que podemos darles contenido e ir sacando y metiendo valores dependiendo de lo que necesitemos, estos pueden ser de tipo entero, flotante, booleanos, strings, etc...
+	* Strings son variables de tipo de texto, estos solo guardan textos ya sean letras o numeros pero en el 2do caso estos no podran ser utilizados para operaciones matematicas
+	* Funciones (argumentos, `return`) son ejecuciones las cuales podemos llamar cuando lo necesitemos y ejecutaran el codigo que lleven dentro, estas pueden o no recibir parametros y siempre retornaran lo que le pidamos con el metodo "return";
+	* Declaraciones `if` es un operador logico el cual funciona de la maneda de que si se cumple lo que esta dentro ejecutara un codigo, ejemplo SI 1 < 100 ejecutar el codigo, si no pasara otra cosa;
+	* Valores booleanos (`true`, `false`) son valores de si o no, solo tienen 2 tipos de valores y son mas que todo utilizados para activadores
