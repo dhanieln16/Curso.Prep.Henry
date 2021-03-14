@@ -1,0 +1,2 @@
+Arrays: seria la representacion en la programacion de un Armario donde podemos tener varios cajones (variables) de un mismo tipo que todas tengan un valor distinto
+tambien podemos añadirle mas cajones o quitarle si llegamos a quererlo
