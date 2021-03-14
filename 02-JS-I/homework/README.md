@@ -4,11 +4,11 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Variables son cajones a los que podemos darles contenido e ir sacando y metiendo valores dependiendo de lo que necesitemos, estos pueden ser de tipo entero, flotante, booleanos, strings, etc...
+	* Strings son variables de tipo de texto, estos solo guardan textos ya sean letras o numeros pero en el 2do caso estos no podran ser utilizados para operaciones matematicas
+	* Funciones (argumentos, `return`) son ejecuciones las cuales podemos llamar cuando lo necesitemos y ejecutaran el codigo que lleven dentro, estas pueden o no recibir parametros y siempre retornaran lo que le pidamos con el metodo "return";
+	* Declaraciones `if` es un operador logico el cual funciona de la maneda de que si se cumple lo que esta dentro ejecutara un codigo, ejemplo SI 1 < 100 ejecutar el codigo, si no pasara otra cosa;
+	* Valores booleanos (`true`, `false`) son valores de si o no, solo tienen 2 tipos de valores y son mas que todo utilizados para activadores
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
