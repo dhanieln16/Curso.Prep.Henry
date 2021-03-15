@@ -1,0 +1,2 @@
+`prototype`: una propiedad base que tienen todos los objetos en JavaScript las cuales es mejor NO tocarlas para evitar conflictos
+* _Constructors_ (de Clases) : son las variables que recibe una funcion o clase el cual recibe para poder ejecutar el codigo que hay dentro
